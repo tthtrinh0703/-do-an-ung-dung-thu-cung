@@ -1,0 +1,37 @@
+data_breed = [{
+	"breed": "Akita",
+	"type": "Dog"
+}, {
+	"breed": "Akita Chow",
+	"type": "Dog"
+}, {
+	"breed": "Alaskan",
+	"type": "Dog"
+}, {
+	"breed": "Barbet",
+	"type": "Dog"
+}, {
+	"breed": "Beabull",
+	"type": "Dog"
+}, {
+	"breed": "Beagle",
+	"type": "Dog"
+}, {
+	"breed": "Cavachon",
+	"type": "Dog"
+}, {
+	"breed": "Polydactyl",
+	"type": "Cat"
+}, {
+	"breed": "Snowshoe",
+	"type": "Cat"
+}, {
+	"breed": "Calico",
+	"type": "Cat"
+}, {
+	"breed": "Siamese",
+	"type": "Cat"
+}, {
+	"breed": "Persian",
+	"type": "Cat"
+}]
